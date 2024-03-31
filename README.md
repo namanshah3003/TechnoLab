@@ -1,2 +1,2 @@
 # TechnoLab
-Tachno Lab is IT Consulatncy Website made using HTML,CSS and JavaScript and Bootstrap 5.
+Techno Lab is IT Consulatncy Website made using HTML,CSS and JavaScript and Bootstrap 5.
